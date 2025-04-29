@@ -4,6 +4,8 @@ Fine-grained biometrics via brain-vision contrastive learning. EEG signals meet 
 
 # Fine-Grained Brain-Vision Biometrics
 
+![](bio.emf)
+
 This repository will soon release the code and datasets for our paper:
 
 **Fine-Grained Brain-Vision Biometrics via Contrastive Learning**  
@@ -35,7 +37,7 @@ We propose a novel **brain-vision recognition framework** that bridges EEG signa
 ## 📦 Code and Datasets
 
 All code and datasets will be made **publicly available soon** at:
-> [https://github.com/FGBIO](https://github.com/FGBIO)
+> [https://github.com/FGBIO](https://github.com/EEG-FGBIO/FGBIO)
 
 Stay tuned! 🚀
 
