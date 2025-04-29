@@ -4,7 +4,7 @@ Fine-grained biometrics via brain-vision contrastive learning. EEG signals meet 
 
 # Fine-Grained Brain-Vision Biometrics
 
-![](bio.png)
+![ ](bio.png)
 
 This repository will soon release the code and datasets for our paper:
 
