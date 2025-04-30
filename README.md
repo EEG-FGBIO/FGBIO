@@ -37,7 +37,7 @@ We propose a novel **brain-vision recognition framework** that bridges EEG signa
 ## 📦 Code and Datasets
 
 All code and datasets will be made **publicly available soon** at:
-> [https://github.com/FGBIO](https://github.com/EEG-FGBIO/FGBIO)
+> [https://github.com/EEG-FGBIO/FGBIO](https://github.com/EEG-FGBIO/FGBIO)
 
 Stay tuned! 🚀
 
